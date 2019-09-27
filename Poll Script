@@ -61,4 +61,4 @@ echo "
 
 </table>
 ";
-/* End of the form displaying the poll question and its four options for selection */
+/* End of the form displaying the poll question and its four options for selection. */
